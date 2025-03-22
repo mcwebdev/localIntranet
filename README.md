@@ -81,5 +81,5 @@ A lightweight Node.js server that hosts a static website accessible only to devi
 
 ## 📜 License
 
-MIT – Use freely, break boldly.
+xmzd33dzmx
 ```
