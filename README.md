@@ -76,7 +76,6 @@ A lightweight Node.js server that hosts a static website accessible only to devi
 - Add basic auth/password wall
 - Add dashboard with widgets (weather, notes, bookmarks)
 - Build a LAN-only message board
-- Style it like a retro 90s hacker terminal or a vaporwave sanctuary 😄
 
 ---
 
