@@ -27,7 +27,7 @@ A lightweight Node.js server that hosts a static website accessible only to devi
 
 ### 1. Clone or Download the Repo
 
-    git clone https://github.com/yourname/local-intranet-server.git
+    git clone https://github.com/mcwebdev/local-intranet-server.git
     cd local-intranet-server
 
 ### 2. Install Dependencies
